@@ -1,0 +1,62 @@
+# Specific data
+# data/MNIST/
+# data/shakespeare/
+# imgs/
+# tinyface/
+data/MNIST/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual Environments
+venv/
+env/
+ENV/
+.venv/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Environment variables
+.env
+.env.local
+
+# Logs
+*.log
+logs/
+
+# Cache
+.cache/
+*.cache
+
+# Model files (common ML)
+*.h5
+*.pkl
+*.pickle
+*.pth
+*.ckpt
+checkpoints/
+models/
+
+# Large files
+*.csv
+*.zip
+*.tar.gz
+*.gz
